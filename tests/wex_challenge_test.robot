@@ -9,7 +9,7 @@ ${GOOGLE_URL}       http://www.google.com/
 ${SEARCH_TERM}      Amazon Brasil
 
 # API Variables
-${API_KEY}          25c89d3f477f6248f78a3d7c0bdd0ffa
+${API_KEY}          afd9e9620c34b5c655ec256bbd8d972f
 ${API_ENDPOINT}     http://api.exchangeratesapi.io/v1
 ${API_ARGS}         /latest?access_key=${API_KEY}&format=1/
 
